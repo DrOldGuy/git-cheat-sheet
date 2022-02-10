@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Install the git client following the instructions in my  _promineo-installation-instructions_  repo.
+Install the git client following the instructions in my [promineo-installation-instructions](https://github.com/DrOldGuy/promineo-installation-instructions) repo.
 
 ## Create a repository (repo) in GitHub
 
