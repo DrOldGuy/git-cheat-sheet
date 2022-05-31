@@ -9,7 +9,7 @@ Install the git client following the instructions in my [promineo-installation-i
 When working in a Cmd or Terminal window, you must press the Enter key after typing each command to execute the command.
 
 1. Log into GitHub
-1. If you are on the  _Overview_  tab, click the  _Repositories_  tab.
+1. Click your profile picture or the "missing image" picture at the top-right of the page. Click on "Your repositories".
 1. Click the bright green  _New_  button.
 1. Enter the name of the new repository. Make sure that the repository is public. Click  _Add a README file_ . Click  _Add .gitignore_  and select  _Java_  as the .gitignore template. Click the bright green  _Create repository_  button.
 1. From the  _Repositories_  tab in GitHub, click on the new project name.
