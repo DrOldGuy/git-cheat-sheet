@@ -12,7 +12,7 @@ When working in a Cmd or Terminal window, you must press the Enter key after typ
 1. Click your profile picture or the "missing image" picture at the top-right of the page. Click on "Your repositories".
 1. Click the bright green  _New_  button.
 1. Enter the name of the new repository. Make sure that the repository is public. Click  _Add a README file_ . Click  _Add .gitignore_  and select  _Java_  as the .gitignore template. Click the bright green  _Create repository_  button.
-1. From the  _Repositories_  tab in GitHub, click on the new project name.
+1. From the  _Your Repositories_  page in GitHub, click on the new project name.
 1. Click the bright green  _Code_  button. Make sure that  _HTTPS_  is selected. Click on the  _copy_  icon to the right of the repository name.
 1. Open a Cmd or Terminal window. Navigate to the workspace directory (the directory that has a .metadata folder in it), which will be the parent directory of the new project. Type **git clone ** then paste the content of the clipboard onto the command line. So, for my repo named git-cheat-sheet, I would navigate to my workspace directory and then type: **git clone https://github.com/DrOldGuy/git-cheat-sheet.git**. This creates a subdirectory named  _git-cheat-sheet_ . This directory has a .git folder in it.
 
