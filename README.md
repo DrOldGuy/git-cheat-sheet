@@ -21,7 +21,7 @@ When working in a Cmd or Terminal window, you must press the Enter key after typ
 1. Start Eclipse or Spring Tool Suite (STS), selecting the workspace in which you cloned the GitHub repo.
 1. Click  _File_  in the top menu. Then select  _New / Java Project_ .
 1. Enter the project name. This should be the same name as the git repo (actually the same name as the project directory that git created). Ensure that  _Create module-info.java file_  is  _not_  selected. Click  _Finish_ . The project will be created in Eclipse.
-1. Expand the project in the Package Explorer. You should see a file named .gitignore. If you don't, click the button with 3 dots at the top of the Package Explorer. In the popup menu, select  _Filters... _ . In the scrolling window in the middle of the  _Java Element Filters_  panel, uncheck  _.*resources_ . Click _OK_. Now, you should see the .gitignore file. Open .gitignore in the editor.
+1. Expand the project in the Package Explorer. You should see a file named .gitignore. If you don't, click the button with 3 dots at the top of the Package Explorer. In the popup menu, select  _Filters..._ . In the scrolling window in the middle of the  _Java Element Filters_  panel, uncheck  _.*resources_ . Click _OK_ . Now, you should see the .gitignore file. Open .gitignore in the editor.
 1. Add these lines at the bottom and save the file:
 
 ```
