@@ -31,7 +31,7 @@ bin/
 target/
 ```
 
-## Sync the Eclipse project with GitHub
+## Push the Eclipse project to GitHub
 
 After making changes to your project you will need to push the changes to GitHub so that others can see them. After you have typed a command in this section you will need to press the Enter key to execute the command.
 
